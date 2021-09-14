@@ -15,7 +15,7 @@ class NothMacro extends Macro {
     }
 }
 
-from NetworkByteSwap call
-select call
+from NetworkByteSwap expr
+select expr
 
 
